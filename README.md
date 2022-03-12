@@ -47,3 +47,11 @@ In order to demonstrate the built microservice, Postman and test.py is used to v
 Also, the test.py file will return the output with simplicity.
 
 ![GET vocab](https://github.com/ybchojo/lin_take_home/blob/main/output_img/1.PNG)
+
+![POST vocab](https://github.com/ybchojo/lin_take_home/blob/main/output_img/2.PNG)
+
+![POST vocab2](https://github.com/ybchojo/lin_take_home/blob/main/output_img/3.PNG)
+
+![POST prediction1](https://github.com/ybchojo/lin_take_home/blob/main/output_img/4.PNG)
+
+![POST prediction2](https://github.com/ybchojo/lin_take_home/blob/main/output_img/5.PNG)
