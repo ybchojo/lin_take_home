@@ -28,8 +28,10 @@ Python and Flask are used to build the microservice that categorize the post_tex
 ## Steps
 
 1. Download the repository.
-2. Install all dependencies in requirements.txt ->  pip install -r requirements.txt
-
+2. Install all dependencies in requirements.txt 
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 ## Results
 
