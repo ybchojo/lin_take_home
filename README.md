@@ -28,18 +28,18 @@ Python and Flask are used to build the microservice that categorize the post_tex
 ## Steps
 
 1. Download the repository.
-2. Install all dependencies in requirements.txt 
+2. Install all dependencies in [requirements.txt](https://github.com/ybchojo/lin_take_home/blob/main/requirements.txt)
   ```bash
   pip install -r requirements.txt
   ```
 3. Move to directory where files are located
-4. Run post.py file.
+4. Run [post.py](https://github.com/ybchojo/lin_take_home/blob/main/post.py) file.
   ```bash
   python post.py
   ```
 5. Result will be displayed and check.
 
-If using test.py file, two cmd should be opened and run post.py file and test.py on each cmd.
+If using test.py file, two cmd should be opened and run [post.py](https://github.com/ybchojo/lin_take_home/blob/main/post.py) file and [test.py](https://github.com/ybchojo/lin_take_home/blob/main/test.py) on each cmd.
 
 ## Results
 
