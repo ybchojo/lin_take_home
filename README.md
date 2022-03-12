@@ -38,6 +38,9 @@ Python and Flask are used to build the microservice that categorize the post_tex
   python post.py
   ```
 5. Result will be displayed and check.
+
+If using test.py file, two cmd should be opened and run post.py file and test.py on each cmd.
+
 ## Results
 
 In order to demonstrate the built microservice, Postman and test.py is used to verfiy the output. Postman is an API platform for building and using APIs.
