@@ -1,6 +1,6 @@
 # Infinity Influencer Marketing
 
-# Project Description
+## Project Description
 
 
 * Build a Python microservice to identify whether a given post_text is sponsored or not.
@@ -12,5 +12,27 @@
     sponsored post
   * Non-sponsored otherwise
 * We should be able to add new keywords to the original set of keywords so that our vocabulary is not static.
-* 
+
+## System Requirements
+
+Please check the requirements.txt file ( This file contains all the dependencies )
+
+Python and Flask are used to build the microservice that categorize the post_text is sponsored or non-sponsered. Flask is a micro web framework and it does not require particualar tools or libraries so it is more easier to implement. 
+
+## Web services(
+
+### GET(HTTP Method) : Send to URL-Pattern - end point(`/api/vocab`) and should return list of keywords used to determine whether or not post_text is sponosored.
+### POST(HTTP Method) : Send to URL-Pattern - end point('/api/vocab') and should add new keyword in already existing vocabulary.
+### POST(HTTP Method) : Send to URL-Pattern - end point('/api/prediction') and should predict to categorizing if the given post_text is sponsored or not.
+
+## Steps
+
+1. Download the repository.
+2. Install all dependencies in requirements.txt ->  pip install -r requirements.txt
+
+
+## Results
+
+In order to demonstrate the built microservice, Postman and test.py is used to verfiy the output. Postman is an API platform for building and using APIs.
+Also, the test.py file will return the output with simplicity.
 
