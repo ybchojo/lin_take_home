@@ -46,3 +46,4 @@ If using test.py file, two cmd should be opened and run post.py file and test.py
 In order to demonstrate the built microservice, Postman and test.py is used to verfiy the output. Postman is an API platform for building and using APIs.
 Also, the test.py file will return the output with simplicity.
 
+![GET vocab](https://github.com/ybchojo/lin_take_home/blob/main/output_img/1.PNG)
