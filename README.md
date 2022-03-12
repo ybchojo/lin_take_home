@@ -15,7 +15,7 @@
 
 ## System Requirements
 
-Please check the requirements.txt file ( This file contains all the dependencies )
+Please check the [requirements.txt](https://github.com/ybchojo/lin_take_home/blob/main/requirements.txt) ( This file contains all the dependencies )
 
 Python and Flask are used to build the microservice that categorize the post_text is sponsored or non-sponsered. Flask is a micro web framework and it does not require particualar tools or libraries so it is more easier to implement. 
 
