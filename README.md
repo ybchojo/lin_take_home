@@ -69,3 +69,8 @@ Also, the test.py file will return the output with simplicity.
   POST request / predict whether sponsored or not
  ```
 ![POST prediction2](https://github.com/ybchojo/lin_take_home/blob/main/output_img/5.PNG)
+
+```bash
+  Result of test.py
+ ```
+![POST prediction2](https://github.com/ybchojo/lin_take_home/blob/main/output_img/test.PNG)
