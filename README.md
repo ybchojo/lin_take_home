@@ -19,7 +19,7 @@ Please check the [requirements.txt](https://github.com/ybchojo/lin_take_home/blo
 
 Python and Flask are used to build the microservice that categorize the post_text is sponsored or non-sponsered. Flask is a micro web framework and it does not require particualar tools or libraries so it is more easier to implement. 
 
-## Web services(
+## Web services
 
 ### GET(HTTP Method) : Send to URL-Pattern - end point(`/api/vocab`) and should return list of keywords used to determine whether or not post_text is sponosored.
 ### POST(HTTP Method) : Send to URL-Pattern - end point(`/api/vocab`) and should add new keyword in already existing vocabulary.
