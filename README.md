@@ -32,7 +32,11 @@ Python and Flask are used to build the microservice that categorize the post_tex
   ```bash
   pip install -r requirements.txt
   ```
-
+3. Move to directory where files are located
+4. Run post.py file.
+  '''bash
+  python post.py
+  '''
 ## Results
 
 In order to demonstrate the built microservice, Postman and test.py is used to verfiy the output. Postman is an API platform for building and using APIs.
