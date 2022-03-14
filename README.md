@@ -37,9 +37,10 @@ Python and Flask are used to build the microservice that categorize the post_tex
   ```bash
   python post.py
   ```
-5. Result will be displayed and check.
+5. If using test.py file, two cmd should be opened and run [post.py](https://github.com/ybchojo/lin_take_home/blob/main/post.py) file and [test.py](https://github.com/ybchojo/lin_take_home/blob/main/test.py) on each cmd.
 
-If using test.py file, two cmd should be opened and run [post.py](https://github.com/ybchojo/lin_take_home/blob/main/post.py) file and [test.py](https://github.com/ybchojo/lin_take_home/blob/main/test.py) on each cmd.
+6. Result will be displayed and check.
+
 
 ## Results
 
