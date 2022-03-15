@@ -43,8 +43,8 @@ Python and Flask are used to build the microservice that categorize the post_tex
 
 ## Bonus point
 
-Database (in-memory store) to persist the vacab.
-Create ORM utility to Insert and Select records from the table
+- [x] Database (in-memory store) to persist the vacab. \\
+- [x] Create ORM utility to Insert and Select records from the table
 
 ## Results
 
