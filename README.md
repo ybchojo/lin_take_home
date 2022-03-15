@@ -13,11 +13,14 @@
   * Non-sponsored otherwise
 * We should be able to add new keywords to the original set of keywords so that our vocabulary is not static.
 
-## System Requirements
+## System Requirements & Tech Stack
 
 Please check the [requirements.txt](https://github.com/ybchojo/lin_take_home/blob/main/requirements.txt) ( This file contains all the dependencies )
 
 Python and Flask are used to build the microservice that categorize the post_text is sponsored or non-sponsered. Flask is a micro web framework and it does not require particualar tools or libraries so it is more easier to implement. 
+
+* Python 3.8.5
+* SQLite3
 
 ## Web services
 
