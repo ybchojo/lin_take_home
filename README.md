@@ -49,7 +49,7 @@ Send to URL-Pattern - end point(`/api/prediction`) and should predict to categor
 
 ## Bonus point
 
-- [x] Database (in-memory store) to persist the vacab. \\
+- [x] Database (in-memory store) to persist the vacab. \
 - [x] Create ORM utility to Insert and Select records from the table
 
 ## Results
