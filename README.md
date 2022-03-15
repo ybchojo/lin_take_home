@@ -31,7 +31,7 @@ Send to URL-Pattern - end point(`/api/vocab`) and should add new keyword in alre
 ### POST(HTTP Method) : 
 Send to URL-Pattern - end point(`/api/prediction`) and should predict to categorizing if the given post_text is sponsored or not.
 
-## Steps
+## Russning Steps
 
 1. Download the repository.
 2. Install all dependencies in [requirements.txt](https://github.com/ybchojo/lin_take_home/blob/main/requirements.txt)
@@ -43,9 +43,9 @@ Send to URL-Pattern - end point(`/api/prediction`) and should predict to categor
   ```bash
   python post.py
   ```
-5. If using postman.app, please use the base host 'http://127.0.0.1:2000/'
+5. * If using postman.app, please use the base host 'http://127.0.0.1:2000/'
  
-   If using test.py file, two cmd should be opened and run [post.py](https://github.com/ybchojo/lin_take_home/blob/main/post.py) file and [test.py](https://github.com/ybchojo/lin_take_home/blob/main/test.py) on each cmd.
+   * If using test.py file, two cmd should be opened and run [post.py](https://github.com/ybchojo/lin_take_home/blob/main/post.py) file and [test.py](https://github.com/ybchojo/lin_take_home/blob/main/test.py) on each cmd.
 
   
 6. Result will be displayed and check.
