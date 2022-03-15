@@ -21,9 +21,12 @@ Python and Flask are used to build the microservice that categorize the post_tex
 
 ## Web services
 
-### GET(HTTP Method) : Send to URL-Pattern - end point(`/api/vocab`) and should return list of keywords used to determine whether or not post_text is sponosored.
-### POST(HTTP Method) : Send to URL-Pattern - end point(`/api/vocab`) and should add new keyword in already existing vocabulary.
-### POST(HTTP Method) : Send to URL-Pattern - end point(`/api/prediction`) and should predict to categorizing if the given post_text is sponsored or not.
+### GET(HTTP Method) : 
+Send to URL-Pattern - end point(`/api/vocab`) and should return list of keywords used to determine whether or not post_text is sponosored.
+### POST(HTTP Method) : 
+Send to URL-Pattern - end point(`/api/vocab`) and should add new keyword in already existing vocabulary.
+### POST(HTTP Method) : 
+Send to URL-Pattern - end point(`/api/prediction`) and should predict to categorizing if the given post_text is sponsored or not.
 
 ## Steps
 
